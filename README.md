@@ -1,3 +1,5 @@
+#This repository contains data sets, images, notes and more related to my Capstone Case Study for Code Differently(Wilmington,DE)
+#Finished Deliverables can be downloaded by downloading the deliverables.zip file listed
 #Under Construction# Capstone Case Study by; cohort_asm24.3
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
