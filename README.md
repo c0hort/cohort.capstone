@@ -1,3 +1,7 @@
+[https://github.com/c0hort/cohort.capstone/blob/main/capstone.deliverables.zip]
+^Contains 1.Project Charter 2.Project Plan 3.Project Report^ 
+
+
 #This repository contains data sets, images, notes and more related to my Capstone Case Study for Code Differently(Wilmington,DE)
 #Finished Deliverables can be downloaded by downloading the deliverables.zip file listed
 #Under Construction# Capstone Case Study by; cohort_asm24.3
