@@ -1,5 +1,5 @@
 https://github.com/c0hort/cohort.capstone/blob/main/capstone.deliverables.zip
-^Contains 1.Project Charter 2.Project Plan 3.Project Report^ 
+      ^Contains 1.Project Charter 2.Project Plan 3.Project Report^ 
 
 
 #This repository contains data sets, images, notes and more related to my Capstone Case Study for Code Differently(Wilmington,DE)
