@@ -1,0 +1,138 @@
+Project Plan: Managing the State of Delaware Opioid Settlement Fund
+Project Title:
+Managing the State of Delaware Opioid Settlement Fund
+
+Project Purpose:
+To develop a data-driven strategy for the allocation of the opioid settlement funds, ensuring they support evidence-based initiatives for prevention, treatment, recovery, and public health interventions effectively.
+
+Objectives:
+- Evaluate the current state of the opioid crisis in Delaware through data analysis, This includes
+  treatment options, Deaths related fatal overdoses, 
+
+Identify key areas where the funds can be most impactful.
+
+Recommend an allocation strategy based on data insights.
+
+Monitor and Assess the effectiveness of the fund distribution in real-time.
+
+Scope:
+Inclusions:
+
+Data collection on opioid-related health statistics, treatment facility capacities, and public health outcomes.
+
+Analysis of existing prevention and treatment programs.
+
+Development of an evidence-based fund allocation model.
+
+Exclusions:
+
+Implementation of the allocation strategy (focus is on analysis and recommendation).
+
+Long-term monitoring beyond the initial assessment phase.
+
+Stakeholders:
+Delaware Prescription Opioid Settlement Distribution Commission (POSDC)
+
+State Health Department
+
+Public Health and Policy Experts
+
+Community Organizations
+
+Patients and Families affected by the opioid crisis
+
+Assumptions:
+Availability of accurate and comprehensive data.
+
+Collaboration and support from all stakeholders.
+
+Timely access to financial and operational details of existing programs.
+
+Constraints:
+Limited timeframe to conduct the analysis and prepare recommendations.
+
+Potential data privacy and security concerns.
+
+Milestones:
+Data Collection - Start Date: November 18th; Complete by: November 24th
+
+Data Analysis and Insights - Start Date: November 25th; Complete by: November 29th
+
+Draft Recommendations - Complete by: November 30th
+
+Completion Deadline for the Team - Complete by: December 1st
+
+Final Presentation to POSDC - Complete by: December 3rd
+
+Tools:
+Microsoft Excel - For initial data collection, cleaning, and basic analysis.
+
+Microsoft Power BI - For advanced data analysis and visualization.
+
+Tableau - For creating interactive dashboards and visual reports.
+
+Python/R - For statistical analysis and more complex data manipulation (if needed).
+
+Google Sheets/Docs - For collaborative work and documentation.
+
+Data Sources:
+Public health databases and reports from Delaware and surrounding areas.
+
+Delaware State Health Department data.
+
+Community health surveys and studies.
+
+National databases like CDC, NIH, and others relevant to opioid statistics.
+
+Tasks and Timeline:
+Project Initiation (November 18th)
+
+Formulate project plan and timeline.
+
+Confirm team roles and responsibilities.
+
+Data Collection (November 18th - November 24th)
+
+Identify and gather data from relevant sources.
+
+Clean and prepare data for analysis.
+
+Tools: Microsoft Excel, Google Sheets
+
+Data Analysis (November 25th - November 29th)
+
+Conduct data analysis to identify trends and insights.
+
+Use Microsoft Power BI and Tableau for visualization.
+
+If needed, perform complex analysis using Python/R.
+
+Draft Recommendations (November 29th - November 30th)
+
+Develop initial recommendations based on data insights.
+
+Create draft report and visualizations.
+
+Team Review and Completion (December 1st)
+
+Review and refine recommendations.
+
+Finalize report and presentation materials.
+
+Final Presentation (December 3rd)
+
+Present findings and recommendations to POSDC.
+
+Communication Plan:
+Regular check-ins and updates with the project team.
+
+Weekly status reports to key stakeholders.
+
+Use of collaborative tools like Google Docs for documentation and feedback.
+
+Risk Management:
+Regularly review data for accuracy and completeness.
+
+Engage stakeholders early to ensure buy-in.
+
+Have contingency plans for potential data issues or delays.
