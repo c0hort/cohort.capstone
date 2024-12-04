@@ -13,4 +13,4 @@
 </picture>
 
 
-<img src="https://github.com/c0hort/cohort.capstone/blob/main/opioidfundDispersion.png"align=center>
+<source media="https://github.com/c0hort/cohort.capstone/blob/main/opioidfundDispersion.png"align=center>
