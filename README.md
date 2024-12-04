@@ -13,4 +13,6 @@
 </picture>
 
 
+<picture>
 <source media="https://github.com/c0hort/cohort.capstone/blob/main/opioidfundDispersion.png"align=center>
+</picture>
